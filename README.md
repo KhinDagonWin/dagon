@@ -1,1 +1,1 @@
-# dagon
+# Generative Adversarial Networks (GANs)
